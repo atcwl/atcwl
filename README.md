@@ -10,6 +10,4 @@
 - 🌱 I’m currently learning ... Reverse Engineering & Understanding Lower Level Applications!
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: ... I love Apples!
-
 <br />
----
