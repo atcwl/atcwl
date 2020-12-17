@@ -12,14 +12,4 @@
 - ⚡ Fun fact: ... I love Apples!
 
 <br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][ pytest django and django rest framework: 1 - django setup playlist ]
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][fullstack django and react native: m-pesa daraja api playlist]
-
-<br />
-<br />
-
 ---
