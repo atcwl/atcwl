@@ -4,12 +4,12 @@
 <br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/atcwl?label=FOLLOW%20%40daviesateka&style=for-the-badge)](https://twitter.com/atcwl)
 
-## I'm a Computer Science Student, Researcher,  and Content Creator!
+## I'm a final year Information Technology Student, Researcher, and Software Engineer & Cyber security enthusiast!
 
-- 🔭 I’m currently working on Security & Data Forensics-related Projects!
+- 🔭 I’m currently working on Full stack Mobile and Web Development!
 - 🌱 I’m currently learning Reverse Engineering & Understanding Lower Level Applications!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Apples and playing basketball
 
 ### Connect with me:
