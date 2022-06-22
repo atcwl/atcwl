@@ -6,7 +6,7 @@
 
 ## I'm Software Engineer and Cyber security enthusiast!
 
-- 🔭 I’m currently working on Full stack Mobile and Web Development projects!
+- 🔭 I’m currently working on Full Stack Web Development (Reactjs, Nodejs, express, EJS) projects!
 - 🌱 I’m currently learning Reverse Engineering & Understanding Lower Level Applications!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
