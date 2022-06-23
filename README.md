@@ -1,5 +1,5 @@
 ### Hi there, I'm Davies - aka [thecodewarlock] 👋
-## I'm Software Engineer and Cyber security enthusiast!
+## I'm a Software Engineer and Cyber security enthusiast!
 
 - 🔭 I’m currently working on Full Stack Web Development (Reactjs, Nodejs, express, EJS) projects!
 - 🌱 I’m currently learning Reverse Engineering & Understanding Lower Level Applications!
