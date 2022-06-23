@@ -1,9 +1,4 @@
 ### Hi there, I'm Davies - aka [thecodewarlock] 👋
-
-[![Website](https://img.shields.io/website?label=DAVIESATEKA.COM&style=for-the-badge&up_message=GO&url=https%3A%2F%2Fdaviesateka.com)](https://daviesateka.com)
-<br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/atcwl?label=FOLLOW%20%40daviesateka&style=for-the-badge)](https://twitter.com/atcwl)
-
 ## I'm Software Engineer and Cyber security enthusiast!
 
 - 🔭 I’m currently working on Full Stack Web Development (Reactjs, Nodejs, express, EJS) projects!
