@@ -27,5 +27,3 @@
 [website]: https://daviesateka.com
 [twitter]: https://twitter.com/atcwl
 [linkedin]: https://linkedin.com/in/davies-ateka-49526115a
-
--<img src="https://github-readme-stats.vercel.app/api?username=DaviesAteka&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
