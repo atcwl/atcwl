@@ -17,7 +17,7 @@
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviesAteka&theme=github_dark" alt="daviesateka" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atcwl&theme=github_dark" alt="daviesateka" align = "center"/></p>
 
 [website]: https://daviesateka.com
 [twitter]: https://twitter.com/atcwl
