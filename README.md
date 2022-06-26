@@ -21,4 +21,4 @@
 
 [website]: https://atcwl.github.io
 [twitter]: https://twitter.com/atcwl
-[linkedin]: https://linkedin.com/in/devissateka
+[linkedin]: https://linkedin.com/in/devisateka
