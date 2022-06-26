@@ -19,6 +19,6 @@
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atcwl&theme=github_dark" alt="daviesateka" align = "center"/></p>
 
-[website]: https://daviesateka.com
+[website]: https://atcwl.github.io
 [twitter]: https://twitter.com/atcwl
-[linkedin]: https://linkedin.com/in/davies-ateka-49526115a
+[linkedin]: https://linkedin.com/in/devissateka
