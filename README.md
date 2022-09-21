@@ -1,10 +1,9 @@
 ### Hi there, I'm Davies - aka [thecodewarlock] 👋
 ## I'm a Software Engineer and Cyber security enthusiast!
 
-- 🔭 I’m currently working on Full Stack Web Development (Reactjs, Nodejs, express, EJS) projects!
+- 🔭 I’m currently working on Full Stack Web Development (Reactjs, Nodejs, express, Typescript, MongoDb, MySql) projects!
 - 🌱 I’m currently learning Reverse Engineering & Understanding Lower Level Applications!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Apples and playing basketball
 
 ### Connect with me:
