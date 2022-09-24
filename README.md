@@ -1,6 +1,6 @@
 ### Hi there, I'm Davies - aka [thecodewarlock] 👋
 ## I'm a Software Engineer and Cyber security enthusiast!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atcwl&label=Profile%20views&color=0e75b6&style=flat" alt="atcwl" /> </p>
+
 - 🔭 I’m currently working on Full Stack Web Development (Reactjs, Nodejs, express, Typescript, MongoDb, MySql) projects!
 - 🌱 I’m currently learning Reverse Engineering & Understanding Lower Level Applications!
 - 👯 I’m looking to collaborate with other content creators
@@ -15,7 +15,6 @@
 <br />
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
-  <summary><b>🔎 Github Profile Details</b></summary>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=atcwl&style=for-the-badge">
 </a>
