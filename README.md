@@ -15,9 +15,6 @@
 <br />
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=atcwl&style=for-the-badge">
-</a>
 
 [website]: https://atcwl.github.io
 [twitter]: https://twitter.com/atcwl
