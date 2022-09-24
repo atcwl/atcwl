@@ -16,7 +16,9 @@
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atcwl&theme=github_dark" alt="daviesateka" align = "center"/></p>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=atcwl&style=for-the-badge">
+</a>
 
 [website]: https://atcwl.github.io
 [twitter]: https://twitter.com/atcwl
