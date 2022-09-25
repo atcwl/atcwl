@@ -1,4 +1,8 @@
+
+[![atcwl](./img/atcwl.svg)](https://atcwl.github.io#gh-dark-mode-only)
+[![atcwl](./img/atcwl.mp4)](https://atcwl.github.io#gh-light-mode-only)
 ### Hi there, I'm Davies - aka [thecodewarlock] 👋
+
 ## I'm a Software Engineer and Cyber security enthusiast!
 
 - 🔭 I’m currently working on Full Stack Web Development (Reactjs, Nodejs, express, Typescript, MongoDb, MySql) projects!
@@ -33,4 +37,5 @@
 [website]: https://atcwl.github.io
 [twitter]: https://twitter.com/atcwl
 [linkedin]: https://linkedin.com/in/devisateka
+[atcwl]: https://atcwl.github.io
 </details>
