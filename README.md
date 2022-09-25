@@ -34,5 +34,3 @@
 [twitter]: https://twitter.com/atcwl
 [linkedin]: https://linkedin.com/in/devisateka
 </details>
-
-[![Atcwl's github activity graph](https://activity-graph.herokuapp.com/graph?username=atcwl&bg_color=ffffff&color=000000&line=4c9e56&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
