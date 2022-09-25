@@ -1,14 +1,9 @@
-
-[![atcwl](./img/atcwl-dark.gif)](https://atcwl.github.io#gh-dark-mode-only)
-[![atcwl](./img/atcwl-light.gif)](https://atcwl.github.io#gh-light-mode-only)
-### Hi there, I'm Davies - aka [thecodewarlock] 👋
-<div col="6">
-## I'm a Software Engineer and Cyber security enthusiast!
-
-- 🔭 I’m currently working on Full Stack Web Development (Reactjs, Nodejs, express, Typescript, MongoDb, MySql) projects!
-- 🌱 I’m currently learning Reverse Engineering & Understanding Lower Level Applications!
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love Apples and playing basketball
+<h1 align="center">Hi 👋there, I'm Devis - aka [thecodewarlock]</h1>
+<h3 align="center">I'm a Software Engineer and Cyber security enthusiast!</h3>
+<p align="left">- 🔭 I’m currently working on Full Stack Web Development (Reactjs, Nodejs, express, Typescript, MongoDb, MySql) projects!</p>
+<p align="left">- 🌱 I’m currently learning Reverse Engineering & Understanding Lower Level Applications!</p>
+<p align="left">- 👯 I’m looking to collaborate with other content creators</p>
+<p align="left">- ⚡ Fun fact: I love Apples and playing basketball</p>
 
 ### Connect with me:
 
@@ -22,6 +17,8 @@
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/atcwl#gh-dark-mode-only)
 <br />
 <br />
+<h3 align="left">Languages and Tools:</h3>
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
@@ -37,5 +34,4 @@
 [website]: https://atcwl.github.io
 [twitter]: https://twitter.com/atcwl
 [linkedin]: https://linkedin.com/in/devisateka
-[atcwl]: https://atcwl.github.io
 </details>
