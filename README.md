@@ -1,6 +1,6 @@
 
 [![atcwl](./img/atcwl.svg)](https://atcwl.github.io#gh-dark-mode-only)
-[![atcwl](./mp4/atcwl-light.mp4)](https://atcwl.github.io#gh-light-mode-only)
+[![atcwl](./img/atcwl-light.svg)](https://atcwl.github.io#gh-light-mode-only)
 ### Hi there, I'm Davies - aka [thecodewarlock] 👋
 
 ## I'm a Software Engineer and Cyber security enthusiast!
