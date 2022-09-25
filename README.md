@@ -1,10 +1,8 @@
 
-[![atcwl](./img/atcwl.svg)](https://atcwl.github.io#gh-dark-mode-only)
-[![atcwl](./img/atcwl-light.svg)](https://atcwl.github.io#gh-light-mode-only)
+[![atcwl](./img/atcwl-dark.gif)](https://atcwl.github.io#gh-dark-mode-only)
+[![atcwl](./img/atcwl-light.gif)](https://atcwl.github.io#gh-light-mode-only)
 ### Hi there, I'm Davies - aka [thecodewarlock] 👋
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="https://robocop79.github.io/atcwl/atcwl/mp4/atcwl-light.mp4">
-</video>
+<div col="6">
 ## I'm a Software Engineer and Cyber security enthusiast!
 
 - 🔭 I’m currently working on Full Stack Web Development (Reactjs, Nodejs, express, Typescript, MongoDb, MySql) projects!
@@ -31,7 +29,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
+</div>
 <br />
 <br />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=atcwl.atcwl" alt="visitors"></p>
