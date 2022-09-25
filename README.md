@@ -8,14 +8,34 @@
 
 ### Connect with me:
 
-[<img align="left" alt="daviesateka.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Davies Ateka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Davies Ateka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[![website](./img/globe-light.svg)](https://atcwl.github.io#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://atcwl.github.io#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/devisateka#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/devisateka#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![twitter](./img/twitter-light.svg)](https://twitter.com/atcwl#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/atcwl#gh-dark-mode-only)
 <br />
 <h2>ℹ️ &nbsp;Github Info</h2>
-	
 
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+<br />
+<br />
+
+
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=atcwl.atcwl" alt="visitors"></p>
+
+</details>
 [website]: https://atcwl.github.io
 [twitter]: https://twitter.com/atcwl
 [linkedin]: https://linkedin.com/in/devisateka
+
