@@ -2,7 +2,9 @@
 [![atcwl](./img/atcwl.svg)](https://atcwl.github.io#gh-dark-mode-only)
 [![atcwl](./img/atcwl-light.svg)](https://atcwl.github.io#gh-light-mode-only)
 ### Hi there, I'm Davies - aka [thecodewarlock] 👋
-
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://robocop79.github.io/atcwl/atcwl/mp4/atcwl-light.mp4">
+</video>
 ## I'm a Software Engineer and Cyber security enthusiast!
 
 - 🔭 I’m currently working on Full Stack Web Development (Reactjs, Nodejs, express, Typescript, MongoDb, MySql) projects!
