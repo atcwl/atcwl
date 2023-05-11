@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋there, I'm Devis - aka [thecodewarlock]</h1>
 <h3 align="center">Geek during the day, Cyber security enthusiast at night. I appreciate good code, coffee and Basketball.</h3>
 &nbsp;&nbsp;
-<p align="left">- 🔭 I’m currently working on Full Stack Web Development (Reactjs, Nodejs, express, Typescript, MongoDb, MySql) projects!</p>
+<p align="left">- 🔭 I’m currently working on Machine Learning projects!</p>
 <p align="left">- 🌱 I’m currently learning Reverse Engineering & Understanding Lower Level Applications!</p>
 <p align="left">- 👯 I’m looking to collaborate with other Software Engineers</p>
 <p align="left">- ⚡ Fun fact: I love Apples and playing basketball</p>
@@ -26,6 +26,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="pytorch" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
 </div>
 <br />
 <br />
