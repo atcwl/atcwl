@@ -6,17 +6,6 @@
 <p align="left">- 👯 I’m looking to collaborate with other Software Engineers</p>
 <p align="left">- ⚡ Fun fact: I love Apples and playing basketball</p>
 
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://atcwl.github.io#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://atcwl.github.io#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/devisateka#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/devisateka#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/atcwl#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/atcwl#gh-dark-mode-only)
-&nbsp;&nbsp;
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -27,11 +16,26 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="FastApi" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="pytorch" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="pytest" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytest/pytest-original.svg" style="padding-right:10px;" />
 <img align="left" alt="pytorch" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
 </div>
 <br />
 <br />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=atcwl.atcwl" alt="visitors"></p>
+&nbsp;&nbsp;
+
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://atcwl.github.io#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://atcwl.github.io#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/devisateka#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/devisateka#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![twitter](./img/twitter-light.svg)](https://twitter.com/atcwl#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/atcwl#gh-dark-mode-only)
 
 [website]: https://atcwl.github.io
 [twitter]: https://twitter.com/atcwl
