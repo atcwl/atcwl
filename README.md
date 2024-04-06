@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋there, I'm Devis - aka [thecodewarlock]</h1>
 <h3 align="center">Geek during the day, Cyber security enthusiast at night. I appreciate good code, coffee and Basketball.</h3>
 &nbsp;&nbsp;
-<p align="left">- 🔭 I’m currently working on Machine Learning projects!</p>
+<p align="left">- 🔭 I’m currently working on Deep Learning and API Development projects</p>
 <p align="left">- 🌱 I’m currently learning Reverse Engineering & Understanding Lower Level Applications!</p>
 <p align="left">- 👯 I’m looking to collaborate with other Software Engineers</p>
 <p align="left">- ⚡ Fun fact: I love Apples and playing basketball</p>
@@ -28,16 +28,12 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://atcwl.github.io#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://atcwl.github.io#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/devisateka#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/devisateka#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![twitter](./img/twitter-light.svg)](https://twitter.com/atcwl#gh-light-mode-only)
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/atcwl#gh-dark-mode-only)
 
-[website]: https://atcwl.github.io
 [twitter]: https://twitter.com/atcwl
 [linkedin]: https://linkedin.com/in/devisateka
 </details>
