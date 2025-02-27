@@ -31,8 +31,8 @@
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/devisateka#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/devisateka#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/atcwl#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/atcwl#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/mbe63samg#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/mbe63samg#gh-dark-mode-only)
 
 [twitter]: https://twitter.com/atcwl
 [linkedin]: https://linkedin.com/in/devisateka
