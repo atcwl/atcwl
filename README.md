@@ -1,11 +1,11 @@
 <!-- Automatic Light/Dark Banner Switch -->
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="img/atcwl-dark.gif" />
     <source media="(prefers-color-scheme: light)" srcset="img/atcwl-light.gif" />
     <img alt="ATCWL — CodeWarlock" src="img/atcwl-dark.gif" width="90%" />
   </picture>
-</p>
+</p> -->
 
 <h1 align="center">Hi, I'm Devis</h1>
 <h3 align="center">Backend Engineer • Distributed Systems • AI Engineering</h3>
@@ -95,3 +95,4 @@ I like turning complex engineering problems into reliable systems.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atcwl&layout=compact&theme=t
+
