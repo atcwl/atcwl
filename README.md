@@ -70,17 +70,23 @@ I like turning complex engineering problems into reliable systems.
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
 <p align="left">
 
-<a href="https://github.com/atcwl/kafka-event-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atcwl&repo=kafka-event-backend&theme=tokyonight" />
-</a>
+  <a href="https://github.com/atcwl/kafka-event-backend">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=atcwl&repo=kafka-event-backend&theme=tokyonight" 
+      alt="Kafka Event Backend"
+    />
+  </a>
 
-<a href="https://github.com/atcwl/llm-code-evaluator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atcwl&repo=llm-code-evaluator&theme=tokyonight" />
-</a>
+  <a href="https://github.com/atcwl/llm-code-evaluator">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=atcwl&repo=llm-code-evaluator&theme=tokyonight" 
+      alt="LLM Code Evaluator"
+    />
+  </a>
 
 </p>
 
@@ -95,4 +101,5 @@ I like turning complex engineering problems into reliable systems.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atcwl&layout=compact&theme=t
+
 
